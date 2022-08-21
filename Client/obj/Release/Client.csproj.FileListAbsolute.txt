@@ -1,0 +1,10 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\bin\Release\Client.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\bin\Release\Client.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\bin\Release\Client.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\bin\Release\System.Management.Automation.dll
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\ReverseShellSharp\Client\obj\Release\Client.csproj.CopyComplete
